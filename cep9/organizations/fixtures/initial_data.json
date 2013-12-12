@@ -1,0 +1,11 @@
+[
+{
+    "pk": 1, 
+    "model": "organizations.organization", 
+    "fields": {
+        "email": "coordinadorapoble9@gmail.com", 
+        "name": "Coordinadora d'Entitats del Poblenou", 
+        "address": "amb seu a:\r\nCasal de Barri del Poblenou\r\nRambla del Poblenou 49\r\n08005 Barcelona"
+    }
+}
+]
